@@ -1,11 +1,11 @@
 # Site
-title:              laymonage's blog
+title:              laymonage's site
 bio:                'a product of exhausted fingers'
 description:        "because it's always nice to have something to write on"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://laymonage.com
