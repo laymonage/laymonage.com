@@ -13,7 +13,7 @@ tag:
 comments: true
 ---
 
-![Aiden's Reactions](/assets/img/aidensreactions.png)    
+![Aiden's Reactions](/assets/img/projects/aidensreactions.png)  
     
 <center>An expressive sticker set for your daily conversations.</center>
 
