@@ -13,7 +13,7 @@ tag:
 comments: true
 ---
 
-![Aiden's Reactions](https://sdl-stickershop.line.naver.jp/products/0/0/1/1306613/LINEStorePC/main.png)    
+![Aiden's Reactions](/assets/img/aidensreactions.png)    
     
 <center>An expressive sticker set for your daily conversations.</center>
 
