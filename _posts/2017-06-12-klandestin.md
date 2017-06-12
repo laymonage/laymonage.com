@@ -2,8 +2,7 @@
 layout: post
 title:  "Klandestin"
 date:   2017-06-12
-excerpt: "Perjuangan seorang kreator di LINE"
-project: false
+excerpt: "Perjuangan seorang kreator di LINE."
 tag:
 - sticker
 - theme
@@ -13,6 +12,7 @@ tag:
 - UI
 - project
 - development
+
 comments: true
 ---
 
@@ -364,7 +364,7 @@ yang sudah kutentukan: **4 Juni**. Ya, ulang tahun **Klandestin Gauchea**.
 
 ![approved](/assets/img/posts/2017/approved2.jpg)  
 
-Sore hari pada 4 Juni, **aku merilis** [**Lunacy**](https://line.me/S/shop/theme/detail?id=33ef311d-7d79-444b-8e22-1f08d09c3f4b).
+Sore hari pada 4 Juni, **aku merilis** [**Lunacy**](/lunacy).
 Aku segera mengisi LINE Credit-ku dan membelinya untukku sendiri. Ya, bahkan seorang
 kreator pun harus membeli karyanya sendiri di LINE. Setelah Lunacy berhasil diterapkan
 di ponselku, aku cukup puas dan bangga dengan hasilnya.  

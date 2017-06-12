@@ -18,8 +18,9 @@ comments: true
 <center>An expressive sticker set for your daily conversations.</center>
 
 I started this holiday project just as I finished my second year of high school.
-It took me about a month to complete, and I couldn't have finished it without the help of my friends.
-I encountered a few problems while working on this, but it was pretty fun.
+It took me about a month to complete, and I couldn't have finished it without
+the help of my friends. I encountered a few problems while working on this, but
+it was pretty fun.
  
 Aiden's Reactions sticker set is available on [Telegram](https://telegram.me) and [LINE](https://line.me).
 

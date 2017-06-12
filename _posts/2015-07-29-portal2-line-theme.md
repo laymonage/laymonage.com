@@ -22,7 +22,8 @@ comments: true
 
 <b style="color:red;">Note:</b> LINE has implemented an automatic function that
 regularly checks for modified themes, which automatically reverts your theme to default.
-This means you'll have to reinstall the theme every time this happens.  
+This means you'll have to reinstall the theme every time this happens.
+{: .notice}
 
 ### Method A (easier)
 * Install any free theme from Theme Shop (Brown, Cony, Black, or White theme).
