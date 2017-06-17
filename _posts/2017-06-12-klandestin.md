@@ -75,9 +75,9 @@ kartu kreditku.
 
 Rekening koran kartu kredit tidak sulit untuk didapat apabila kita menggunakan
 kartu kredit sungguhan. Sayangnya, **yang aku gunakan hanyalah kartu kredit virtual**,
-dan detail yang diberikan oleh BNI mengenai transaksi verifikasi di PayPal hanya berisi
+sehingga detail yang diberikan oleh BNI mengenai transaksi verifikasi di PayPal hanya berisi
 jumlah uang yang keluar dan *merchant* tujuannya. Tidak ada detail mengenai kode respons
-dari PayPal, yang aku perlukan untuk menyelesaikan proses verifikasi.  
+dari PayPal, yang mana kuperlukan untuk menyelesaikan proses verifikasi.  
 
 Setelah hampir putus asa, aku mencari informasi mengenai verifikasi akun PayPal dengan
 BNI Debit Online, dan aku menemukan cerita-cerita orang yang berhasil melakukannya.
@@ -86,7 +86,7 @@ atau **melalui Phone Banking**. Karena aku sibuk sekolah di hari kerja, aku memu
 untuk menggunakan Phone Banking. Aku sangat enggan menggunakan telepon, namun karena aku
 tidak sabar untuk menyelesaikan proses verifikasi, aku memberanikan diri melakukannya.  
 
-Rupanya, proses permintaan tidaklah singkat dan orang yang melayaniku langsung paham
+Rupanya, proses permintaan tidaklah sulit dan orang yang melayaniku langsung paham
 apa yang kuminta. Setelah meminta tanggal transaksi verifikasi dilakukan (aku menelepon
 tanggal 10 Mei, namun transaksi verifikasi dilakukan beberapa hari sebelumnya), ia
 langsung memberikan kode respons dari PayPal. Setelah selesai menelepon, aku langsung
