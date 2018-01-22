@@ -13,7 +13,7 @@ tag:
 comments: true
 ---
 
-![Portal 2 LINE Theme](/assets/img/projects/portal2linetheme.png)  
+![Portal 2 LINE Theme](https://orig00.deviantart.net/a093/f/2015/297/0/b/portal_2_line_theme_by_laymonage-d93a459.png)  
 
 <center>A clean Portal 2 theme for LINE Android app.</center>
 <center><a style="font-size: x-small;" href="https://laymonage.deviantart.com/art/Portal-2-LINE-Theme-549706365">Click here to view on DeviantArt</a></center>
