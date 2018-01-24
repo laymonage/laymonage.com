@@ -9,6 +9,9 @@
     var host = "laymonage.com";
     if ((host == window.location.host) && (window.location.protocol != "https:"))
         window.location.protocol = "https:";
+    var host2 = "laymonage.netlify.com";
+    if (host2 == window.location.host)
+        window.location.host = host;
     </script>
     <!-- Twitter Cards -->
     {% if page.feature %}{% capture feature %}{{ page.feature }}{% endcapture %}{% unless feature contains 'http://' or feature contains 'https://' %}{% capture feature %}{{ site.url }}/{{ feature }}{% endcapture %}{% endunless %}

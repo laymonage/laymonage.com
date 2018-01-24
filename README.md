@@ -1,2 +1,2 @@
-# laymonage.github.io
+# laymonage.com
 laymonage's personal blog
