@@ -15,7 +15,7 @@ comments: true
 
 ![Aiden's Reactions](/assets/img/projects/aidensreactions.png)  
     
-<center>An expressive sticker set for your daily conversations.</center>
+<div align="center">An expressive sticker set for your daily conversations.</div>
 
 I started this holiday project just as I finished my second year of high school.
 It took me about a month to complete, and I couldn't have finished it without
