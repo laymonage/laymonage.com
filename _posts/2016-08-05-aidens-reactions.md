@@ -1,16 +1,16 @@
 ---
-layout: post
-title:  "Aiden's Reactions"
-date:   2016-08-05
-excerpt: "An expressive sticker set for your daily conversations."
-project: true
+layout  : post
+title   : "Aiden's Reactions"
+date    : 2016-08-05
+excerpt : "An expressive sticker set for your daily conversations."
+project : true
+comments: true
 tag:
 - sticker 
 - line
-- im
-- chat
-- illustration
-comments: true
+- IM
+- digital
+- art
 ---
 
 ![Aiden's Reactions](/assets/img/projects/aidensreactions.png)  

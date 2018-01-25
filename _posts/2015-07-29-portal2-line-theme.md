@@ -1,16 +1,17 @@
 ---
-layout: post
-title:  "[obsolete] Portal 2 LINE Theme"
-date:   2015-07-29
-excerpt: "A clean Portal 2 theme for LINE Android app."
-project: true
+layout  : post
+title   : "[obsolete] Portal 2 LINE Theme"
+date    : 2015-07-29
+excerpt : "A clean Portal 2 theme for LINE Android app."
+project : true
+comments: true
 tag:
 - theme
 - line
-- im
-- chat
+- IM
 - UI
-comments: true
+- digital
+- art
 ---
 
 ![Portal 2 LINE Theme](https://orig00.deviantart.net/a093/f/2015/297/0/b/portal_2_line_theme_by_laymonage-d93a459.png)  

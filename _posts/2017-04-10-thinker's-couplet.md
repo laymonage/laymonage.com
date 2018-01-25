@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  "Thinker's Couplet"
-date:   2017-04-10
-poem: true
-excerpt: ''
+layout  : post
+title   :  "Thinker's Couplet"
+date    :   2017-04-10
+excerpt : ''
+poem    : true
 comments: true
 ---
 

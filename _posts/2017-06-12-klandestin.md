@@ -1,19 +1,18 @@
 ---
-layout: post
-title:  "Klandestin"
-date:   2017-06-12
-excerpt: "Perjuangan seorang kreator di LINE."
+layout  : post
+title   : "Klandestin"
+date    : 2017-06-12
+excerpt : "Perjuangan seorang kreator di LINE."
+comments: true
 tag:
 - sticker
 - theme
 - line
-- im
-- chat
+- IM
 - UI
-- project
-- development
-
-comments: true
+- digital
+- art
+- dev diary
 ---
 
 ![Me, writing](/assets/img/posts/2017/nulis.png)  
