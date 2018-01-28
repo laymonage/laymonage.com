@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/bg.svg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                ''
+url:                https://laymonage.com
 enforce_ssl:        laymonage.com
 repository:         https://github.com/laymonage/laymonage.com
 
@@ -64,8 +64,8 @@ steam:              laymonage
 #xmpp:              username@server.com
 #hackernews:        username
 
-# Gems
-gems:
+# Plugins
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
