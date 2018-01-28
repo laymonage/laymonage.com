@@ -10,6 +10,7 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 url:                https://laymonage.com
 enforce_ssl:        laymonage.com
+secondary_url:      laymonage.netlify.com
 repository:         https://github.com/laymonage/laymonage.com
 
 # Jekyll

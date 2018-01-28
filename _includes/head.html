@@ -5,14 +5,20 @@
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
     <!-- HTTPS redirection -->
+    {% if site.enforce_ssl %}
     <script type="text/javascript">
-    var host = "laymonage.com";
+    var host = "{{ site.enforce_ssl }}";
     if ((host == window.location.host) && (window.location.protocol != "https:"))
         window.location.protocol = "https:";
-    var host2 = "laymonage.netlify.com";
-    if (host2 == window.location.host)
-        window.location.host = host;
     </script>
+    {% endif %}
+    {% if site.secondary_url %}
+    <script type="text/javascript">
+    var host = "{{ site.secondary_url }}";
+    if (host == window.location.host)
+        window.location.href = "{{ site.url }}" + window.location.pathname;
+    </script>
+    {% endif %}
     <!-- Twitter Cards -->
     {% if page.feature %}{% capture feature %}{{ page.feature }}{% endcapture %}{% unless feature contains 'http://' or feature contains 'https://' %}{% capture feature %}{{ site.url }}/{{ feature }}{% endcapture %}{% endunless %}
     <meta name="twitter:card" content="summary_large_image">
