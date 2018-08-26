@@ -67,7 +67,7 @@ steam:              laymonage
 #hackernews:        username
 
 # Plugins
-plugins:
+plugins_dir:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
