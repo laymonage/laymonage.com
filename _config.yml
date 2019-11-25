@@ -9,8 +9,8 @@ background:         'assets/img/bg.svg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 timezone:           Asia/Jakarta
-url:                https://laymonage.com
-enforce_ssl:        laymonage.com
+url:                https://old.laymonage.com
+enforce_ssl:        old.laymonage.com
 secondary_url:      laymonage.netlify.com
 repository:         https://github.com/laymonage/laymonage.com
 
@@ -74,7 +74,7 @@ plugins_dir:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://laymonage.com
+    base_url: https://old.laymonage.com
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
